@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Derrell
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me on twitter @Rell_wrld98
+- 📫 How to reach me on Twitter @Rell_wrld98
 
 <!---
 DerrellT/DerrellT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

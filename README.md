@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derrell
+- 👋 Hi, I’m Derrell
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything.
